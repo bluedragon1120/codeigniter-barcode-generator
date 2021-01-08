@@ -1,1 +1,1 @@
-QR Code CodeIgniter 3
+Barcode Generator CodeIgniter 3
